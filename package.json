@@ -1,0 +1,14 @@
+{
+  "name": "emailservice",
+  "version": "1.0.0",
+  "description": "demo email service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sachin Maheshwari",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
